@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "LOST CORNER",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-17T04:39:04.652400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOST CORNER",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/01_LOST_CORNER_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOST CORNER",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/02_LOST_CORNER_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOST CORNER",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/03_LOST_CORNER_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOST CORNER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_LOST_CORNER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LOST CORNER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_LOST_CORNER_米津玄師.txt"
+    }
+  ]
+}
